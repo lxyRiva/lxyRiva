@@ -13,7 +13,7 @@
 ### 🔗 Links
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Riva2088-ffa116?style=flat-square&logo=leetcode&logoColor=ffa116&labelTextColor=white&textColor=white)](https://leetcode.cn/u/lxy2088/)
-[![Gmail](https://img.shields.io/badge/Gmail-hsddllxy@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&labelTextColor=white&textColor=white)](mailto:hsddllxy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-hsddllxy@gmail.com-red?style=flat-square&logo=gmail&logoColor=red&labelTextColor=white&textColor=white)](mailto:hsddllxy@gmail.com)
 
 
 [![Bilibili](https://img.shields.io/badge/-Riva-white?style=flat-square&logo=bilibili&logoColor=FB7299&label=Bilibili&labelColor=white&labelTextColor=white&textColor=white)](https://space.bilibili.com/82064736)
