@@ -1,4 +1,4 @@
-### <h1 style="color:#96b8a9;text-align:center;"> Hi~ I'm lxyRiva. Junior Developer.
+###  <span style="color:#d4a373; font-size:26px; font-weight:bold;"> Hi~ I'm lxyRiva. Junior Developer.
 
 🎮Game Designer | AI Development | Full-Stack Learning
 
