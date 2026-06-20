@@ -1,13 +1,13 @@
-### Hi~ I'm lxyRiva. Junior Developer.
+### <span style="color:#94b4a4"> Hi~ I'm lxyRiva. Junior Developer.
 
 🎮Game Designer | AI Development | Full-Stack Learning
 
-✨ Open to quality opportunities
+✨ Open to interesting job opportunities
 
 - 📝 Documenting my coding journey one commit at a time
 - 🤖 Exploring AI applications and practical projects
-- 💬 Always happy to discuss coding
-- 📧 You can reach me at: lxy11392246@126.com
+- 💬 Always happy to discuss coding, games, or AI
+- Feel free to reach out and communicate with me anytime.
 
 
 ### 🔗 Links
