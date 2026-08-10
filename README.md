@@ -4,7 +4,7 @@
 
 ✨ Open to interesting job opportunities
 
-- 📝 Documenting my coding journey one commit at a time
+- 📝 Documenting my coding journey
 - 🤖 Exploring AI applications and practical projects
 - 💬 Always happy to discuss coding, AI or  games
 - 📧 Feel free to reach out and communicate with me anytime.
