@@ -1,4 +1,4 @@
-### <h1 style="color:#96b8a9;text-align:center;"> Hi~ I'm lxyRiva. Junior Developer.
+### <h1 style="color:#96b8a9;text-align:center;"> Hi~ I'm lxy. Junior Developer.
 
 🎮Game Designer | AI Development | Full-Stack Learning
 
@@ -6,7 +6,7 @@
 
 - 📝 Documenting my coding journey one commit at a time
 - 🤖 Exploring AI applications and practical projects
-- 💬 Always happy to discuss coding, games, or AI
+- 💬 Always happy to discuss coding, AI or  games
 - 📧 Feel free to reach out and communicate with me anytime.
 
 
