@@ -6,7 +6,7 @@
 
 - 📝 Documenting my coding journey
 - 🤖 Exploring AI applications and practical projects
-- ❤️ Interested in emotional interaction design for AI and story-driven companion apps
+- ❤️ Interested in emotional interaction design and narrative-driven AI companion applications
 - 💬 Always happy to discuss coding, AI or  games
 - 📧 Feel free to reach out and communicate with me anytime.
 
